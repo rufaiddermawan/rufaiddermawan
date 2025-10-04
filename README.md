@@ -1,5 +1,6 @@
-## Hello! I'm Rufaiddermawan 👋
+## Hello! I'm rufaiddermawan 👋
 
+![rufaiddermawan](img/github-header-banner.png)
 <!--
 **rufaiddermawan/rufaiddermawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
