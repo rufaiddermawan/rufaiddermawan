@@ -18,10 +18,4 @@ Here are some ideas to get you started:
 - 🔭 I am student of [**Bacharuddin Jusuf Habibie Institute of Technology**](https://ith.ac.id)
 - 🌱 I’m currently learning [**Laravel**](https://laraver.com) Framework
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rufaiddermawan/rufaiddermawan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rufaiddermawan/rufaiddermawan/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rufaiddermawan/rufaiddermawan/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+![pacman contribution graph](https://github-contribution-graph.ez4o.com/api/pacman?username=rufaiddermawan)
