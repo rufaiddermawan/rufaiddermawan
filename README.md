@@ -68,7 +68,6 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-
 ###
 
 <h2 align="left">Play Game With Me</h2>
